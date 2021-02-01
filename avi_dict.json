@@ -335,6 +335,6 @@
 {"id": 333, "term_en":"azaltılmış dikey ayırma miniması çıkış noktası", "term_tr": "reduced vertical seperation minima exit point", "desc": "Bir hava aracının RVSM (azaltılmış dikey ayırma minimumu) sahasından çıkış noktası."},
 {"id": 334, "term_en":"azaltılmış dikey ayırma miniması giriş noktası", "term_tr": "reduced vertical seperation minima entry point", "desc": "Avrupa RVSM hava sahasına girmeden önce, girdiği sırada yada hemen sonrasında, uçağın geçtiği ve geçmesinin beklendiği ilk rapor noktası."},
 {"id": 335, "term_en":"azaltılmış dikey ayırma miniması onayı", "term_tr": "reduced vertical seperation minima approval", "desc": "İlgili Devlet otoritesi tarafından belirli kriterler göz önüne alınarak, bir uçağın RVSM onayının verilmesi işlemidir."},
-{"id": 336, "term_en":"azami kalkış ağırlığı", "term_tr": "maximum take off weight", "desc": "Hava aracının uçuşa elverişlilik sertifikasında, uçuş el kitabında veya diğer resmi kayıtlarda belirtilen kalkışa elverişli azami ağırlığıdır."},
+{"id": 336, "term_en":"azami kalkış ağırlığı", "term_tr": "maximum take off weight", "desc": "Hava aracının uçuşa elverişlilik sertifikasında, uçuş el kitabında veya diğer resmi kayıtlarda belirtilen kalkışa elverişli azami ağırlığıdır."}
 
 ]
