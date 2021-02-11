@@ -195,11 +195,7 @@
 {"id": 193, "abbr":"CAVOK", "abbr_en": "Visibility, Cloud and Present Weather Better Than Prescribed ValuesConditions", "abbr_tr": "Bildirilen Değer veya Koşullardan Daha İyi Görüş, Bulut veya Hava Durumu"},
 {"id": 194, "abbr":"CB", "abbr_en": "Cumulonimbus", "abbr_tr": "Kümülonimbüs"},
 {"id": 195, "abbr":"CB", "abbr_en": "Circuit Breaker", "abbr_tr": "Devre Kesici"},
-"{""id"": 196, ""abbr"":""CDCCL"", ""abbr_en"": ""Critical Design Configuration Control Limitation"", ""abbr_tr"": ""Kritik Dizayn Kontrol Konfigürasyon Limitleri; bir uçağın servis ömrü boyunca tip sertifikasına uygunluğu korumak ve uçuşa elverişliliği devam ettirmek için mutlaka muhafaza edilmesi gereken kritik tasarım özellikleridir. CDCCL kavramı; kritik tasarım özelliklerinin, ilgili bölgede değişiklik, tamir veya bakım yapıldığında orijinal şekilde korunduklarını kontrol ve teyit için tanımlanmıştır.
-
-CDCCL Task’lar, Boeing Airworthiness Limitation (AWL) ve Airbus Fuel Airworthiness Limitations (FAL) dokümanlarında tanımlanan CDCCL Task’ları ve imalatçı dokümanlarında (AMM, SWPM, ESPM, FIM, CMM) CDCCL uyarısına sahip tasklardır.
-
-CDCCL, maksimum yolcu sayısı 30 ve üzerinde ve maksimum taşıma kapasitesi ağırlığı 3400 kg. ve üzerinde olan uçaklar için geçerlidir.""},"
+{"id": 196, "abbr":"CDCCL", "abbr_en": "Critical Design Configuration Control Limitation", "abbr_tr": "Kritik Dizayn Kontrol Konfigürasyon Limitleri; bir uçağın servis ömrü boyunca tip sertifikasına uygunluğu korumak ve uçuşa elverişliliği devam ettirmek için mutlaka muhafaza edilmesi gereken kritik tasarım özellikleridir. CDCCL kavramı; kritik tasarım özelliklerinin, ilgili bölgede değişiklik, tamir veya bakım yapıldığında orijinal şekilde korunduklarını kontrol ve teyit için tanımlanmıştır. CDCCL Tasklar, Boeing Airworthiness Limitation (AWL) ve Airbus Fuel Airworthiness Limitations (FAL) dokümanlarında tanımlanan CDCCL Taskları ve imalatçı dokümanlarında (AMM, SWPM, ESPM, FIM, CMM) CDCCL uyarısına sahip tasklardır. CDCCL, maksimum yolcu sayısı 30 ve üzerinde ve maksimum taşıma kapasitesi ağırlığı 3400 kg. ve üzerinde olan uçaklar için geçerlidir."},
 {"id": 197, "abbr":"CBBG", "abbr_en": "Cabin Baggage", "abbr_tr": "Yolcu Beraberi Bagajı"},
 {"id": 198, "abbr":"CBR", "abbr_en": "California Bearing Ratio", "abbr_tr": "Kaliforniya Taşıma Oranı"},
 {"id": 199, "abbr":"CBT", "abbr_en": "Computer-Based Training", "abbr_tr": "Bilgisayar Destekli Eğitim"},
@@ -553,8 +549,7 @@ CDCCL, maksimum yolcu sayısı 30 ve üzerinde ve maksimum taşıma kapasitesi a
 {"id": 547, "abbr":"MCT", "abbr_en": "Multi Channel Tracking", "abbr_tr": "Çoklu Kanallı İzleme"},
 {"id": 548, "abbr":"MDA", "abbr_en": "Minimum Descent Altitude", "abbr_tr": "Asgari Alçalma İrtifası"},
 {"id": 549, "abbr":"MEA", "abbr_en": "Minimum En Route Altitude", "abbr_tr": "Minimum Yol İrtifası"},
-"{""id"": 550, ""abbr"":""MEL"", ""abbr_en"": ""Minimum Equipment List"", ""abbr_tr"": ""Asgari Donanım Listesi: Bir hava aracının sınırları belirlenmiş şartlar dahilinde belirli gayrifaal teçhizatla işletilebilmesine olanak sağlamak için söz konusu hava aracının tipine özgü MMEL esas alınarak, MMEL ile uyumlu ya da MMEL’den daha kısıtlayıcı bir şekilde hava aracının işletmecisi
-tarafından hazırlanan işletmeci ülke sivil havacılık otoritesi tarafından onaylanan asgari teçhizat listesidir""},"
+{"id": 550, "abbr":"MEL", "abbr_en": "Minimum Equipment List", "abbr_tr": "Asgari Donanım Listesi: Bir hava aracının sınırları belirlenmiş şartlar dahilinde belirli gayrifaal teçhizatla işletilebilmesine olanak sağlamak için söz konusu hava aracının tipine özgü MMEL esas alınarak, MMEL ile uyumlu ya da MMEL den daha kısıtlayıcı bir şekilde hava aracının işletmecisi tarafından hazırlanan işletmeci ülke sivil havacılık otoritesi tarafından onaylanan asgari teçhizat listesidir"},
 {"id": 551, "abbr":"MET", "abbr_en": "Meteorological orMeteorology", "abbr_tr": "Meteorolojik veya Meteoroloji"},
 {"id": 552, "abbr":"METAR", "abbr_en": "Aviation Routine Weather Report (In aeronautical meteorological code", "abbr_tr": "Hava Yoluna Dair Hava Raporu"},
 {"id": 553, "abbr":"MFT", "abbr_en": "Main file transfer", "abbr_tr": ""},
@@ -939,7 +934,7 @@ tarafından hazırlanan işletmeci ülke sivil havacılık otoritesi tarafından
 {"id": 932, "abbr":"W/S", "abbr_en": "Workscope", "abbr_tr": ""},
 {"id": 933, "abbr":"WV", "abbr_en": "Weight Variant", "abbr_tr": "Ağırlık varyantı"},
 {"id": 934, "abbr":"YD", "abbr_en": "Yard", "abbr_tr": "Yarda"},
-{"id": 935, "abbr":"Z", "abbr_en": "Co-ordinated Universal Time", "abbr_tr": "Koordine Edilmiş Evrensel Zaman (meteorolojik mesajlarda"}    
+{"id": 935, "abbr":"Z", "abbr_en": "Co-ordinated Universal Time", "abbr_tr": "Koordine Edilmiş Evrensel Zaman (meteorolojik mesajlarda"},
 
     
 ]
