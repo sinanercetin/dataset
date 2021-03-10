@@ -934,7 +934,12 @@
 {"a_id": 932, "abbr":"W/S", "abbr_en": "Workscope", "abbr_tr": ""},
 {"a_id": 933, "abbr":"WV", "abbr_en": "Weight Variant", "abbr_tr": "Ağırlık varyantı"},
 {"a_id": 934, "abbr":"YD", "abbr_en": "Yard", "abbr_tr": "Yarda"},
-{"a_id": 935, "abbr":"Z", "abbr_en": "Co-ordinated Universal Time", "abbr_tr": "Koordine Edilmiş Evrensel Zaman (meteorolojik mesajlarda"}
-
+{"a_id": 935, "abbr":"Z", "abbr_en": "Co-ordinated Universal Time", "abbr_tr": "Koordine Edilmiş Evrensel Zaman (meteorolojik mesajlarda"},
+    {"a_id": 936, "abbr":"MO-WP", "abbr_en": "Maintenance Organization Written Practice", "abbr_tr": "Bakım Organizasyonu Yazılı Uygulamalar"},
+    {"a_id": 937, "abbr":"CSMU", "abbr_en": "Crash Survivable Memory Unit", "abbr_tr": "---"},
+    {"a_id": 938, "abbr":"DMI", "abbr_en": "Deferred Maintenance Item", "abbr_tr": "Ötelenmiş Bakım Maddesi"},
+    {"a_id": 939, "abbr":"TOGA", "abbr_en": "Take-Off and Go Around", "abbr_tr": "---"},
+    {"a_id": 940, "abbr":"A/T", "abbr_en": "Auto Throttle", "abbr_tr": "---"},
+    {"a_id": 938, "abbr":"NRC", "abbr_en": "Non-Routine Card", "abbr_tr": "Rutin Olmayan İş Kartı"}  
     
 ]
