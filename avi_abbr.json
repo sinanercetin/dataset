@@ -71,7 +71,7 @@
 {"a_id": 69, "abbr":"AIP", "abbr_en": "Aeronautical Information Publication", "abbr_tr": "Havacılık Bilgi Yayını"},
 {"a_id": 70, "abbr":"AIRAC", "abbr_en": "Aeronautical Information Regulation And Control", "abbr_tr": "Havacılık Bilgi Düzen ve Denetim"},
 {"a_id": 71, "abbr":"AIREP", "abbr_en": "Air-report", "abbr_tr": "Hava Raporu"},
-{"a_id": 72, "abbr":"Aktif", "abbr_en": "Aeronautical ınformation", "abbr_tr": "Havacılık Bilgi Hizmetleri"},
+{"a_id": 72, "abbr":"AIS", "abbr_en": "Aeronautical Information", "abbr_tr": "Havacılık Bilgi Hizmetleri"},
 {"a_id": 73, "abbr":"ALAR", "abbr_en": "Approach and Landing Accident Reduction", "abbr_tr": "Yaklaşma ve İniş Kazalarının Azaltılması."},
 {"a_id": 74, "abbr":"ALERFA", "abbr_en": "Alert Phase", "abbr_tr": "Alarm Safhası"},
 {"a_id": 75, "abbr":"ALR", "abbr_en": "Alerting Message", "abbr_tr": "Alarm Mesajı"},
