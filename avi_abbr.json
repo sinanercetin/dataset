@@ -461,7 +461,7 @@
 {"a_id": 459, "abbr":"HDG", "abbr_en": "Heading", "abbr_tr": "Uçuş Başı"},
 {"a_id": 460, "abbr":"HDLC", "abbr_en": "High-Level Data Link Control", "abbr_tr": "Yüksek Seviye Veri Hat Kontrolü"},
 {"a_id": 461, "abbr":"HDLC", "abbr_en": "High-Level Data Link Control", "abbr_tr": "Yüksek Seviye Veri Hat Kontrolü"},
-{"a_id": 462, "abbr":"HEA", "abbr_en": "Heavy Cargo Item (150 kg or", "abbr_tr": "Ağır Kargo"},
+{"a_id": 462, "abbr":"HEA", "abbr_en": "Heavy Cargo Item (150 kg or more)", "abbr_tr": "Ağır Kargo (150 kg ve üzeri)"},
 {"a_id": 463, "abbr":"HEL", "abbr_en": "Helicopter", "abbr_tr": "Helikopter"},
 {"a_id": 464, "abbr":"HF", "abbr_en": "High Frequency", "abbr_tr": "Yüksek Frekans"},
 {"a_id": 465, "abbr":"HFDL", "abbr_en": "High Frequency Data Link", "abbr_tr": "Yüksek Frekans Veri Hattı"},
