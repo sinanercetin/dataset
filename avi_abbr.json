@@ -943,7 +943,7 @@
     {"a_id": 938, "abbr":"NRC", "abbr_en": "Non-Routine Card", "abbr_tr": "Rutin Olmayan İş Kartı"},
     {"a_id": 939, "abbr":"MRO", "abbr_en": "Maintenance Repair Overhaul", "abbr_tr": "Bakım Onarım Yenileme"},
     {"a_id": 940, "abbr":"TPIS", "abbr_en": "Tire Pressure Indicating System", "abbr_tr": "Lastik Basıncı Gösterge Sistemi"},
-    {"a_id": 941, "abbr":"EICAS", "abbr_en": "Engine Indicating and Crew Alerting System", "abbr_tr": "Motor Gösterge ve Mürettebat Uyarı Sistemi - Bir motor gösterge ve mürettebat uyarı sistemi, modern uçaklarda uçak uçuş ekibine uçak motorları ve diğer sistemler için mürettebat ve enstrümantasyon sağlamak için kullanılan entegre bir sistemdir. EICAS donanımlı uçaklarda önerilen iyileştirme eylemi kontrol listesi olarak adlandırılır."}
-    
+    {"a_id": 941, "abbr":"EICAS", "abbr_en": "Engine Indicating and Crew Alerting System", "abbr_tr": "Motor Gösterge ve Mürettebat Uyarı Sistemi - Bir motor gösterge ve mürettebat uyarı sistemi, modern uçaklarda uçak uçuş ekibine uçak motorları ve diğer sistemler için mürettebat ve enstrümantasyon sağlamak için kullanılan entegre bir sistemdir. EICAS donanımlı uçaklarda önerilen iyileştirme eylemi kontrol listesi olarak adlandırılır."},
+    {"a_id": 942, "abbr":"IFALPA", "abbr_en": "Internatioal Federation Of Airline Pilots Associations", "abbr_tr": "Uluslararası Havayolu Pilotları Dernekleri Federasyonu"},
     
 ]
