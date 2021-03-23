@@ -354,7 +354,7 @@
 {"a_id": 352, "abbr":"ESM", "abbr_en": "Engine Shop Manual", "abbr_tr": ""},
 {"a_id": 353, "abbr":"EST", "abbr_en": "EstimateEstimated", "abbr_tr": "Tahmini"},
 {"a_id": 354, "abbr":"ESWL", "abbr_en": "Equivalent Single Wheel Load", "abbr_tr": "Tek Teker Yük Eşdeğeri"},
-{"a_id": 355, "abbr":"ETA", "abbr_en": "Estimated Time Of Arrival orEstimating Arrival", "abbr_tr": "Tahmini Varış Zamanı"},
+{"a_id": 355, "abbr":"ETA", "abbr_en": "Estimated Time Of Arrival or Estimating Arrival", "abbr_tr": "Tahmini Varış Zamanı"},
 {"a_id": 356, "abbr":"Etc.", "abbr_en": "Etcetera", "abbr_tr": "Vesaire (vs.)"},
 {"a_id": 357, "abbr":"ETD", "abbr_en": "Estimated Time Of Departureor Estimating Departure", "abbr_tr": "Tahmini kalkış zamanı"},
 {"a_id": 358, "abbr":"ETFMS", "abbr_en": "Enhanced Tactical FlowManagement System", "abbr_tr": "Geliştirilmiş Taktik Akış Yönetim Sistemi"},
@@ -672,7 +672,7 @@
 {"a_id": 670, "abbr":"PIF", "abbr_en": "Pilot Information File", "abbr_tr": "Pilot Bilgi Dosyası"},
 {"a_id": 671, "abbr":"PIL", "abbr_en": "Passenger Information List", "abbr_tr": "Yolcu Bilgi Listesi"},
 {"a_id": 672, "abbr":"PJE", "abbr_en": "Parachute Jumping Exercise", "abbr_tr": "Paraşütle Atlama Tatbikatı"},
-{"a_id": 673, "abbr":"PLB", "abbr_en": "Pernonnel Location Becon", "abbr_tr": "Personel Yer Tesbit Bikını"},
+{"a_id": 673, "abbr":"PLB", "abbr_en": "Personnel Location Becon", "abbr_tr": "Personel Yer Tesbit Bikını"},
 {"a_id": 674, "abbr":"PLC", "abbr_en": "Planning Controller", "abbr_tr": "Planlama Kontrolörü"},
 {"a_id": 675, "abbr":"PLN", "abbr_en": "Flight Plan", "abbr_tr": "Uçuş Planı"},
 {"a_id": 676, "abbr":"PM", "abbr_en": "Pilot Monitoring", "abbr_tr": "Uçuşu Gözlemleyen Pilot"},
@@ -944,6 +944,7 @@
     {"a_id": 939, "abbr":"MRO", "abbr_en": "Maintenance Repair Overhaul", "abbr_tr": "Bakım Onarım Yenileme"},
     {"a_id": 940, "abbr":"TPIS", "abbr_en": "Tire Pressure Indicating System", "abbr_tr": "Lastik Basıncı Gösterge Sistemi"},
     {"a_id": 941, "abbr":"EICAS", "abbr_en": "Engine Indicating and Crew Alerting System", "abbr_tr": "Motor Gösterge ve Mürettebat Uyarı Sistemi - Bir motor gösterge ve mürettebat uyarı sistemi, modern uçaklarda uçak uçuş ekibine uçak motorları ve diğer sistemler için mürettebat ve enstrümantasyon sağlamak için kullanılan entegre bir sistemdir. EICAS donanımlı uçaklarda önerilen iyileştirme eylemi kontrol listesi olarak adlandırılır."},
-    {"a_id": 942, "abbr":"IFALPA", "abbr_en": "Internatioal Federation Of Airline Pilots Associations", "abbr_tr": "Uluslararası Havayolu Pilotları Dernekleri Federasyonu"}
+    {"a_id": 942, "abbr":"IFALPA", "abbr_en": "Internatioal Federation Of Airline Pilots Associations", "abbr_tr": "Uluslararası Havayolu Pilotları Dernekleri Federasyonu"},
+    {"a_id": 942, "abbr":"IFR", "abbr_en": "Instrument Flight Rules", "abbr_tr": "Aletli Uçuş Kuralları"}
     
 ]
