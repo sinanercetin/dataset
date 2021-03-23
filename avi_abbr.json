@@ -948,7 +948,8 @@
     {"a_id": 943, "abbr":"IFR", "abbr_en": "Instrument Flight Rules", "abbr_tr": "Aletli Uçuş Kuralları"},
     {"a_id": 944, "abbr":"RTIL", "abbr_en": "Runway Threshold Identification Lights", "abbr_tr": "Pist Eşiği Tanıtma Işıkları"},
     {"a_id": 944, "abbr":"MCC", "abbr_en": "Maintenance Control Center", "abbr_tr": "Bakım Kontrol Merkezi"},
-    {"a_id": 944, "abbr":"Instrument Landing System", "abbr_en": "Maintenance Control Center", "abbr_tr": "Aletli İniş Sistemi"}
+    {"a_id": 944, "abbr":"ILS", "abbr_en": "Maintenance Control Center", "abbr_tr": "Aletli İniş Sistemi"},
+    {"a_id": 944, "abbr":"FCU", "abbr_en": "Flight Control Unit", "abbr_tr": "Uçuş Kontrol Ünitesi"}
     
     
     
