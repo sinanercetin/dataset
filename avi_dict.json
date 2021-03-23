@@ -1414,7 +1414,10 @@
 { "d_id":1412, "term_en":"working license group C", "term_tr": "C grubu çalışma ruhsatı", "desc" : "Havaalanları Yer Hizmetleri Yönetmeliği (SHY-22) hükümlerine uygun olarak 5 inci maddede belirtilen hizmet türlerinden, temsil, gözetim ve yönetim, uçak özel güvenlik hizmet ve denetimi, ikram servis ile uçuş operasyon hizmetini yapmak üzere yetkilendirilmiş özel hukuk tüzel kişilerine her bir hizmet türü için verilecek çalışma belgeleri" },
 { "d_id":1413, "term_en":"year", "term_tr": "yıl", "desc" : "Bir takvim yılıdır." },
 { "d_id":1414, "term_en":"young’s modulus", "term_tr": "elastisite modülü", "desc" : "Statik hesaplamada bir gerilimin, kısalma ya da eğilme miktarına bölünmesi ile bulunan değerdir." },
-{ "d_id":1415, "term_en":"zero mode A", "term_tr": "sıfır mod A", "desc" : "0000 ile gösterilen geçersiz mod A." }
+{ "d_id":1415, "term_en":"zero mode A", "term_tr": "sıfır mod A", "desc" : "0000 ile gösterilen geçersiz mod A." },
+  { "d_id":1415, "term_en":"Engine Indicating and Crew Alerting System (EICAS)", "term_tr": "Motor Gösterge ve Mürettebat Uyarı Sistemi", "desc" : "Bir motor gösterge ve mürettebat uyarı sistemi, modern uçaklarda uçak uçuş ekibine uçak motorları ve diğer sistemler için mürettebat ve enstrümantasyon sağlamak için kullanılan entegre bir sistemdir. EICAS donanımlı uçaklarda önerilen iyileştirme eylemi kontrol listesi olarak adlandırılır." },
+  
+ 
 
 
 ]
