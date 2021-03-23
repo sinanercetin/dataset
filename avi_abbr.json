@@ -947,9 +947,10 @@
     {"a_id": 942, "abbr":"IFALPA", "abbr_en": "Internatioal Federation Of Airline Pilots Associations", "abbr_tr": "Uluslararası Havayolu Pilotları Dernekleri Federasyonu"},
     {"a_id": 943, "abbr":"IFR", "abbr_en": "Instrument Flight Rules", "abbr_tr": "Aletli Uçuş Kuralları"},
     {"a_id": 944, "abbr":"RTIL", "abbr_en": "Runway Threshold Identification Lights", "abbr_tr": "Pist Eşiği Tanıtma Işıkları"},
-    {"a_id": 944, "abbr":"MCC", "abbr_en": "Maintenance Control Center", "abbr_tr": "Bakım Kontrol Merkezi"},
-    {"a_id": 944, "abbr":"ILS", "abbr_en": "Maintenance Control Center", "abbr_tr": "Aletli İniş Sistemi"},
-    {"a_id": 944, "abbr":"FCU", "abbr_en": "Flight Control Unit", "abbr_tr": "Uçuş Kontrol Ünitesi"}
+    {"a_id": 945, "abbr":"MCC", "abbr_en": "Maintenance Control Center", "abbr_tr": "Bakım Kontrol Merkezi"},
+    {"a_id": 946, "abbr":"ILS", "abbr_en": "Maintenance Control Center", "abbr_tr": "Aletli İniş Sistemi"},
+    {"a_id": 947, "abbr":"FCU", "abbr_en": "Flight Control Unit", "abbr_tr": "Uçuş Kontrol Ünitesi"},
+    {"a_id": 948, "abbr":"WBS", "abbr_en": "Weight and Balance System", "abbr_tr": "Ağırlık ve Denge Sistemi"}
     
     
     
