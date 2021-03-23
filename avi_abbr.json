@@ -951,7 +951,10 @@
     {"a_id": 946, "abbr":"ILS", "abbr_en": "Maintenance Control Center", "abbr_tr": "Aletli İniş Sistemi"},
     {"a_id": 947, "abbr":"FCU", "abbr_en": "Flight Control Unit", "abbr_tr": "Uçuş Kontrol Ünitesi"},
     {"a_id": 948, "abbr":"WBS", "abbr_en": "Weight and Balance System", "abbr_tr": "Ağırlık ve Denge Sistemi"},
-    {"a_id": 949, "abbr":"AoA", "abbr_en": "Angle of Attack", "abbr_tr": "Hücum Açısı"}    
+    {"a_id": 949, "abbr":"AoA", "abbr_en": "Angle of Attack", "abbr_tr": "Hücum Açısı"},
+    {"a_id": 950, "abbr":"EWIS", "abbr_en": "Electrical Wiring Interconnection System", "abbr_tr": "Elektriksel Kabloların Bağlantı Sistemi"},
+    {"a_id": 951, "abbr":"IFE", "abbr_en": "In-Flight Entertainment", "abbr_tr": "Uçuş Eğlence Sistemi"},
+    {"a_id": 952, "abbr":"NTSB", "abbr_en": "National Transportation Safety Board", "abbr_tr": "Amerikan Ulusal Taşımacılık Emniyeti Kurulu"}
     
     
 ]
