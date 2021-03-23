@@ -950,8 +950,8 @@
     {"a_id": 945, "abbr":"MCC", "abbr_en": "Maintenance Control Center", "abbr_tr": "Bakım Kontrol Merkezi"},
     {"a_id": 946, "abbr":"ILS", "abbr_en": "Maintenance Control Center", "abbr_tr": "Aletli İniş Sistemi"},
     {"a_id": 947, "abbr":"FCU", "abbr_en": "Flight Control Unit", "abbr_tr": "Uçuş Kontrol Ünitesi"},
-    {"a_id": 948, "abbr":"WBS", "abbr_en": "Weight and Balance System", "abbr_tr": "Ağırlık ve Denge Sistemi"}
-    
+    {"a_id": 948, "abbr":"WBS", "abbr_en": "Weight and Balance System", "abbr_tr": "Ağırlık ve Denge Sistemi"},
+    {"a_id": 949, "abbr":"AoA", "abbr_en": "Angle of Attack", "abbr_tr": "Hücum Açısı"}    
     
     
 ]
