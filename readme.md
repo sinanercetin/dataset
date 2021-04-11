@@ -11,5 +11,9 @@ Readme
   <p>
   https://www.dhmi.gov.tr/Documents/HavacilikTerimleriSozlugu/DHMi-Havacilik-Terimleri-Sozlugu.pdf?csf=1&e=NZP5QB
   </p>
+  
+  <p>
+  https://www.att.com/support_media/images/pdf/Country_Code_List.pdf
+  </p>
 
 https://jsonformatter.curiousconcept.com/
