@@ -17,9 +17,9 @@ Readme
   </p>
   
   <p>
-  Recyclerview -searchview
-  https://www.youtube.com/watch?v=op2rBiJb79A
-  https://www.youtube.com/watch?v=-41e7nYnhj8
+  Recyclerview -searchview <br>
+  https://www.youtube.com/watch?v=op2rBiJb79A  <br>
+  https://www.youtube.com/watch?v=-41e7nYnhj8  
   </p>
 
 https://jsonformatter.curiousconcept.com/
